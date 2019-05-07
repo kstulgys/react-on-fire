@@ -1,15 +1,11 @@
-# Realtime-React-with-Firebase
+# React On Fire
 
-Fully featured, production ready chat client on top of Google Cloud's serverless infrastructure and Firebase's realtime data store.
+Reactjs chat app using hooks and firestore real time database
 
-## Topics include:
+## Installation
 
-- React Hooks
-- Authentication
-- Presence
-- Realtime updates
-- Production deployment
-- Error logging
-- Cloud functions
-- Loads of React
-- And a bot to chat with
+## Usage
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
